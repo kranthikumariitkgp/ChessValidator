@@ -1,6 +1,6 @@
-package com.flipkart.piece;
+package com.java.piece;
 
-import com.flipkart.Piece;
+import com.java.Piece;
 
 public class HorseMove implements Piece{
 

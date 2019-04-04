@@ -1,4 +1,4 @@
-package com.flipkart;
+package com.java;
 
 public abstract class AbstractClass implements ChessConstants {
 

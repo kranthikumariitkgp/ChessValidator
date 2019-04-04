@@ -1,6 +1,6 @@
-package com.flipkart;
+package com.java;
 
-import com.flipkart.piece.*;
+import com.java.piece.*;
 
 public class PieceSelector {
 	

@@ -1,4 +1,4 @@
-package com.flipkart;
+package com.java;
 
 import java.util.Scanner;
 
